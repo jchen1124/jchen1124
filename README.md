@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jason+Chen!;" />
 </h1>
 
+<h3 align="center">Always Ready To Learn</h3>
+
 <br/>
 
 <div align="center">
@@ -19,6 +21,16 @@
   <a align="center" href="https://www.linkedin.com/in/jason-chen-65a7452a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+
+</div>
+
+ <hr/>
+ <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cpp,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=arch,vscode,github,flutter,git,linux" />
 </div>
 
 <!--
