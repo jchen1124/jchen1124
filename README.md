@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an app**
+ 🔭 I’m currently working on **web app**
  
  🌱 I’m currently learning **Flutter, Machine Learning**
 
@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,javascript,css,html,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,linux,flutter,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,linux,bootstrap" />
 </div>
 
 <div align="center">
