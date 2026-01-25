@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **web app**
  
- 🌱 I’m currently learning **Flutter, Machine Learning**
+ 🌱 I’m currently learning **React, Typescript**
 
 💬 Ask me about **Saxophone 🎷**
 
@@ -29,8 +29,8 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,css,html,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,linux,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,css,html,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,linux,bootstrap,react,nodejs" />
 </div>
 
 <div align="center">
