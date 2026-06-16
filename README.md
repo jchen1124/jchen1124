@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **web app**
+ 🔭 I’m currently working on **GeoGallery🌍**
  
  🌱 I’m currently learning **React, Typescript**
 
