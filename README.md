@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **GeoGallery🌍**
  
- 🌱 I’m currently learning **React, Typescript**
+ 🌱 I’m currently learning **Backend Development, Distributed Systems, Cloud Infrastructure**
 
 💬 Ask me about **Saxophone 🎷**
 
